@@ -17,13 +17,13 @@ Netflix GPT offers a seamless movie browsing experience with the following featu
 
 ## Usage
 
-1. Explore the live demo of Netflix GPT [here](https://netflix-gpt-rho-lilac.vercel.app/).
+1. Explore the live demo of Natflix GPT [here](https://netflix-gpt-rho-lilac.vercel.app/).
 
-2. Sign in using Firebase authentication to unlock personalized features.
+3. Sign in using Firebase authentication to unlock personalized features.
 
-3. Browse movies, watch trailers, and discover new recommendations.
+4. Browse movies, watch trailers, and discover new recommendations.
 
-4. In the specialized movie suggestions section, enter your OpenAI key to get personalized movie recommendations.
+5. In the specialized movie suggestions section, enter your OpenAI key to get personalized movie recommendations.
 
 ## Installation
 
